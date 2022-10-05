@@ -83,7 +83,7 @@ src="imagens/">
 <br>
 <div class="try">
 <p class="final">FIM.</p>
-<a href="/inicio.html"><div class="optxt_try"><button class="options_center">Jogar Novamente</button></a>
+<a href="/index.html"><div class="optxt_try"><button class="options_center">Jogar Novamente</button></a>
 </div>`
 
 var pagina5 = `<section>
@@ -173,7 +173,7 @@ a bruxa nada mais disse, apenas tomou o que era seu por direito. quando o som se
 <br>
 <div class="try">
 <p class="final">FIM.</p>
-<a href="/inicio.html"><div class="optxt_try"><button class="options_center">Jogar Novamente</button></a>
+<a href="/index.html"><div class="optxt_try"><button class="options_center">Jogar Novamente</button></a>
 </div>`
 
 var pagina9 = `<section>  
@@ -206,7 +206,7 @@ O garoto se viu preso em uma jaula, como se fosse um passaro, varias outras cria
 <br>
 <div class="try">
 <p class="final">FIM.</p>
-<a href="/inicio.html"><div class="optxt_try"><button class="options_center">Jogar Novamente</button></a>
+<a href="/index.html"><div class="optxt_try"><button class="options_center">Jogar Novamente</button></a>
 </div>`
 
 var pagina11 = `<section>  
@@ -223,7 +223,7 @@ Sua alma não foi liberta, e sua tormenta se tornou infinitamente pior.
 
 <div class="try">
 <p class="final">FIM.</p>
-<a href="/inicio.html"><div class="optxt_try"><button class="options_center">Jogar Novamente</button></a>
+<a href="/index.html"><div class="optxt_try"><button class="options_center">Jogar Novamente</button></a>
 </div>`
 
 var pagina12 = `<section>
@@ -260,7 +260,7 @@ var pagina13 = `<section>
 <br>
 <div class="try">
 <p class="final">FIM.</p>
-<a href="/inicio.html"><div class="optxt_try"><button class="options_center">Jogar Novamente</button></a>
+<a href="/index.html"><div class="optxt_try"><button class="options_center">Jogar Novamente</button></a>
 </div>`
 
 var pagina13v2 = ` <section>  
@@ -402,7 +402,7 @@ var pagina20 = `<section>
 
 <div class="try">
 <p class="final">FIM.</p>
-<a href="/inicio.html"><div class="optxt_try"><button class="options_center">Jogar Novamente</button></a>
+<a href="/index.html"><div class="optxt_try"><button class="options_center">Jogar Novamente</button></a>
 </div>
 
 </div>`;
