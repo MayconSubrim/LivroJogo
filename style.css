@@ -78,16 +78,23 @@ body{
     justify-content: center;
     margin-left: auto;
     margin-right: auto;
-    background-color: aliceblue;
 }
 button{
     color: rgb(255, 255, 255);
     background-color: #E6203E;
     border: solid black 0.5px;
+    cursor: pointer;
 }
 
-#conteudo{
-    background-color: aliceblue;
+.botaozinho{
+    display: flex;
+    align-items: center;
+}
+
+.botaozinho p{
+    font-size: x-small;
+    font-weight: bolder;
+    margin-left: 7px;
 }
 
 img{
@@ -101,6 +108,7 @@ img{
     width: 547px;
     height: 426px;
     margin-top: 55px;
+    object-fit: cover;
 }
 
 .opcaos{
@@ -125,6 +133,33 @@ img{
     margin-left: 7px;
 }
 
+.optxt_center{
+    margin: 0 auto;
+}
+
+.options_center{
+    border-radius: 14px;
+    width: 127px;
+    height: 41px;
+    margin-bottom: 59px;
+}
+
+.try{
+    margin-top: 55px;
+}
+
+.optxt_try{
+    display: flex;
+    justify-content: center;
+    margin-top: 23px;
+}
+
+
+.final{
+    text-align: center;
+    font-size: 25px;
+}
+
 section{
     margin-top: 20px;
 }
@@ -134,7 +169,7 @@ section{
     
 }
 
-.altocontraste #conteudo{
+.altocontraste, .altocontraste #conteudo {
     background-color: #333333;
 }
 
@@ -157,7 +192,7 @@ section{
 
 .botao:hover {
     transform: scale(1.2);
-    background: #333333;
+    background: #000000;
 }
 
 
