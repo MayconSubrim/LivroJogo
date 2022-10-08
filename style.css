@@ -222,6 +222,11 @@ section p{
     .textozada{
         font-size: 38px;
     }
+
+    .opcaos{
+        display: flex;
+        flex-direction: column;
+    }
 }
 
 
