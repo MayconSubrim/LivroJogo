@@ -251,7 +251,7 @@ O garoto se viu preso em uma jaula, como se fosse um passaro, varias outras cria
 </div>`
 
 var pagina13 = `<section>
-<p>O garoto então volta a sua casa, porém com tudo, o fardo de saber que todo o seu sofrimento poderia teacabado com um simples sim para a bruxa fez com que seus pesadelos piorassemcom tudo foi uma boa escolha, pois ao ir crescendo e passado por tantas coisas, entre altos e baixos, menino cujo queria acabar com o seu sofrimento instantaneamente não existia mais, foi dado lugar a um homede personalidade forte e totalmente integro.
+<p>O garoto então volta a sua casa, porém com tudo, o fardo de saber que todo o seu sofrimento poderia ter acabado com um simples sim para a bruxa fez com que seus pesadelos piorassemcom tudo foi uma boa escolha, pois ao ir crescendo e passado por tantas coisas, entre altos e baixos, menino cujo queria acabar com o seu sofrimento instantaneamente não existia mais, foi dado lugar a um homede personalidade forte e totalmente integro.
 </p>
 <img class="imagemzada" src="imagens/garoto_velho.jpg"/>
 </section>
