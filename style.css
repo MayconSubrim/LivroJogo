@@ -141,7 +141,7 @@ img{
 .opcaos{
     margin-top: 55px;
     display: flex;
-    flex-direction: column;
+    flex-direction: row;
 }
 
 .options{
@@ -153,7 +153,7 @@ img{
 .optxt{
     display: flex;
     align-items: baseline;
-    
+    margin-right: 55px;
 }
 
 .optxt p{

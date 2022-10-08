@@ -266,7 +266,7 @@ var pagina13v2 = ` <section>
 <p>
 O garoto corre desesperadamente em busca da bruxa, precisava escolher algo, mas não queria morrer, apenas ser livre. “Espere! Me decidi, eu já sei o que desejo!”  
 </p>
-<img class="imagemzada" src="imagens/ Riutynho_a_boy_looking_for_a_witch_b25bf2af-0591-4017-b210-0909aba814c6.png" alt="">
+<img class="imagemzada" src="imagens/Riutynho_a_boy_looking_for_a_witch_b25bf2af-0591-4017-b210-0909aba814c6.png" alt="">
 </section>
 <div class="opcaos">
 <div class="optxt"><button class="options" onclick="carregarConteudo(pagina3)">opção 1</button><p>Ter memoria apagada</p></div>
@@ -317,6 +317,7 @@ O menino fez que sim com a cabeça e saiu dali com a mesma velocidade de quem  �
 <br>
 <br>
 Porem ele segue um caminho diferente, com que faz ele se encontrar com a bruxa.
+</p>
 <img class="imagemzada" src="imagens/garoto floresta.png" alt="">
 </section>
 <div class="opcaos">
