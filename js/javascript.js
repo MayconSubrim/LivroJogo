@@ -13,8 +13,8 @@ Então o menino adentrou a floresta e foi em direção a bruxa, foi aí que perc
 <br>
 <br>
 Um levava ele até a Bruxa e o outro a pequena casa do lenhador</p>
-</section>
 <img class="imagemzada" src="imagens/caminho floresta.png" alt="">
+</section>
 <div class="opcaos">
 <div class="optxt"><button class="options" onclick="carregarConteudo(pagina2)">opção 1</button><p>Ir até a bruxa</p></div>
 <div class="optxt"><button class="options" onclick="carregarConteudo(pagina14)">opção 2</button><p>Ir até o lenhador</p></div>
@@ -29,9 +29,9 @@ de ter pesadelos. Farei qualquer coisa que voce pedir"
 em outros, elas permanecem porem te darei poder e com ele você poderá ter tudo o que quiser, mas irá
 permanecer com elas."
 </p>
-</section>
 <img class="imagemzada"
 src="imagens/Joao_Victor____boy_meeting_pretty_witch_in_the_forest_4986496a-4357-4d79-b892-358b37d51dd9.png">
+</section>
 <div class="opcaos">
 <div class="optxt"><button class="options" onclick="carregarConteudo(pagina3)">opção 1</button>
 <p>Ter a memória apagada.</p>
@@ -58,10 +58,10 @@ Certa noite, uma lua de sangue iluminou o céu e a bruxa finalmente apareceu par
 <br>
 <br>
 Ele então ressentido se virou para bruxa e disse: "Todas as minhas lembranças ruins sumiram, mas ainda não consigo ser feliz, por quê?!" 
-</p> 
-</section>
+</p>
 <img class="imagemzada"
 src="imagens/Joao_Victor____adult_man_talking_in_the_forest_with_a_witch_on__421195cd-1dd3-4f53-900a-ce9ac673f3ca.png">
+</section>
 <div class="opcaos">
 <div class="optxt_center"><button class="options_center" onclick="carregarConteudo(pagina4)">Próxima página</button></div>
 </div>`
@@ -76,22 +76,22 @@ essas pessoas podem alcançar a felicidade."
 Não se esqueça de nada. Lembre-se de tudo e supere. Se não superar, sempre será uma criança cuja alma nunca
 floresce.
 </p>
-</section>
 <img class="imagemzada"
-src="imagens/">
+src="imagens/Hzinho_witch_taking_a_boys_soul_248ded78-fcf3-4df5-a548-ec408b946cc4.png">
+</section>
 <br>
 <br>
 <div class="try">
 <p class="final">FIM.</p>
-<a href="/index.html"><div class="optxt_try"><button class="options_center">Jogar Novamente</button></a>
+<a href="index.html"><div class="optxt_try"><button class="options_center">Jogar Novamente</button></a>
 </div>`
 
 var pagina5 = `<section>
 <p>Garoto: “Eu escolho o poder” diz o garoto com os olhos cheios de ambição. A bruxa sorriu levemente perguntando-o “Tens certeza do que desejas, meu garoto? Suas memorias não serão apagadas, mas poderá fazer o que quiser com tal poder.”
 </p>
-</section>
 <img class="imagemzada"
 src="imagens/Joao_Victor____boy_making_a_deal_with_the_witch_in_the_forest_f9a8684b-5112-445f-995c-1b219d9ea23e.png">
+</section>
 <div class="opcaos">
 <div class="optxt"><button class="options" onclick="carregarConteudo(pagina6)">opção 1</button>
 <p>Aceitar Poder.</p>
@@ -116,9 +116,9 @@ dentro e a causar destruição por onde quer que fosse.
 Então em certa noite, uma lua de sangue iluminou o céu e a Bruxa apareceu para pegar o que ele havia
 prometido em troca do desejo
 </p>
-</section>
 <img class="imagemzada"
 src="imagens/Joao_Victor____shy_boy_gaining_power_from_a_witch_in_the_forest_131f4afe-9564-4077-ada8-f14b039aaaf4.png">
+</section>
 <div class="opcaos">
 <div class="optxt"><button class="options" onclick="carregarConteudo(pagina7)">opção 1</button>
 <p>Atacar a Bruxa</p>
@@ -145,9 +145,9 @@ com um simples levantar de dedos congela o homem poucos centímetros antes de at
 <br>
 disse a bruxa balançando a cabeça com reprovaçao.
 </p>
-</section>
 <img class="imagemzada"
 src="imagens/Joao_Victor____young_man_cowardly_attacking_a_witch_on_a_red_mo_2ad1f7cb-2570-48bd-a244-44c4e6d7d0f3.png">
+</section>
 <div class="opcaos">
 <div class="optxt_center"><button class="options_center" onclick="carregarConteudo(pagina8)">Próxima página</button>
 </div>      
@@ -167,13 +167,13 @@ a bruxa nada mais disse, apenas tomou o que era seu por direito. quando o som se
 <br>
 "Como queria que tivesse notado meu pequeno garoto."
 </p>
-</section>
 <img class="imagemzada" src="imagens/Joao_Victor____witch_taking_a_mans_soul_dd750050-66dc-44f7-8f67-18850027f3f9.png">
+</section>
 <br>
 <br>
 <div class="try">
 <p class="final">FIM.</p>
-<a href="/index.html"><div class="optxt_try"><button class="options_center">Jogar Novamente</button></a>
+<a href="index.html"><div class="optxt_try"><button class="options_center">Jogar Novamente</button></a>
 </div>`
 
 var pagina9 = `<section>  
@@ -183,8 +183,8 @@ Opçao; aceitar
 <br>
 O garoto, inclina o rosto com curiosidade.
 </p>
+<img class="imagemzada" src="imagens/Hzinho_witch_smiling_tenderness_d391b5ea-ad8e-4639-a74c-533de37d9999.png" alt="">
 </section>
-<img class="imagemzada" src="imagens/" alt="">
 <div class="opcaos">
 <div class="optxt"><button class="options" onclick="carregarConteudo(pagina10)">opção 1</button><p>Aceitar</p></div>
 <div class="optxt"><button class="options" onclick="carregarConteudo(pagina12)">opção 2</button><p>Recusar</p></div>
@@ -200,13 +200,13 @@ O garoto voltou alegre para sua casa, finalmente estava livre de seus horríveis
 <br>
 O garoto se viu preso em uma jaula, como se fosse um passaro, varias outras crianças estavam com ele, porem nenhuma gritava ou piscava, seus olhos eram brancos, como bolinhas de gude. O menino então encarou o que prendia os olhares das demais e ali viu tudo o que mais sonhou, ele era livre e finalmente tinha um sonho bom. Só que o sonho bom lhe custou a vida.
 </p>
+<img class="imagemzada" src="imagens/Riutynho_boy_in_a_birds_cage_with_other_boys_white-eyed_73011fad-ab0a-4fd4-8274-ae5cdcb36d1f.png">
 </section>
-<img class="imagemzada" src="imagens/">
 <br>
 <br>
 <div class="try">
 <p class="final">FIM.</p>
-<a href="/index.html"><div class="optxt_try"><button class="options_center">Jogar Novamente</button></a>
+<a href="index.html"><div class="optxt_try"><button class="options_center">Jogar Novamente</button></a>
 </div>`
 
 var pagina11 = `<section>  
@@ -216,14 +216,13 @@ O garoto, atormentado com o que acabara de ouvir, se sentou sobre o solo úmido.
 <br>
 Sua alma não foi liberta, e sua tormenta se tornou infinitamente pior.
 </p>
+<img class="imagemzada" src="imagens/Hzinho_tormented_boy_dd4c6979-0578-4dda-87cb-dc51041a41b2.png" alt="">
 </section>
-<img class="imagemzada" src="imagens/" alt="">
 <br>
 <br>
-
 <div class="try">
 <p class="final">FIM.</p>
-<a href="/index.html"><div class="optxt_try"><button class="options_center">Jogar Novamente</button></a>
+<a href="index.html"><div class="optxt_try"><button class="options_center">Jogar Novamente</button></a>
 </div>`
 
 var pagina12 = `<section>
@@ -237,8 +236,8 @@ A bruxa encarou o garoto por alguns instantes antes de se afastar e desaparecer 
 <br>
 O garoto se viu preso em uma jaula, como se fosse um passaro, varias outras crianças estavam com ele, porem nenhuma gritava ou piscava, seus olhos eram brancos, como bolinhas de gude. O menino então encarou o que prendia os olhares das demais e ali viu tudo o que mais sonhou, ele era livre e finalmente tinha um sonho bom. Só que o sonho bom lhe custou a vida.
 </p>
+<img class="imagemzada" src="imagens/Riutynho_witch_without_patience_ad9c9995-9939-4939-8c78-dd2bc6a3a996.png">
 </section>
-<img class="imagemzada" src="imagens/">
 <div class="opcaos">
 <div class="optxt"><button class="options" onclick="carregarConteudo(pagina11)">opção 1</button>
 <p> Tirar a própria vida.</p>
@@ -254,21 +253,21 @@ O garoto se viu preso em uma jaula, como se fosse um passaro, varias outras cria
 var pagina13 = `<section>
 <p>O garoto então volta a sua casa, porém com tudo, o fardo de saber que todo o seu sofrimento poderia teacabado com um simples sim para a bruxa fez com que seus pesadelos piorassemcom tudo foi uma boa escolha, pois ao ir crescendo e passado por tantas coisas, entre altos e baixos, menino cujo queria acabar com o seu sofrimento instantaneamente não existia mais, foi dado lugar a um homede personalidade forte e totalmente integro.
 </p>
+<img class="imagemzada" src="imagens/garoto_velho.jpg"/>
 </section>
-<img class="imagemzada" src="imagens/>
 <br>
 <br>
 <div class="try">
 <p class="final">FIM.</p>
-<a href="/index.html"><div class="optxt_try"><button class="options_center">Jogar Novamente</button></a>
+<a href="index.html"><div class="optxt_try"><button class="options_center">Jogar Novamente</button></a>
 </div>`
 
 var pagina13v2 = ` <section>  
 <p>
 O garoto corre desesperadamente em busca da bruxa, precisava escolher algo, mas não queria morrer, apenas ser livre. “Espere! Me decidi, eu já sei o que desejo!”  
 </p>
+<img class="imagemzada" src="imagens/ Riutynho_a_boy_looking_for_a_witch_b25bf2af-0591-4017-b210-0909aba814c6.png" alt="">
 </section>
-<img class="imagemzada" src="imagens/" alt="">
 <div class="opcaos">
 <div class="optxt"><button class="options" onclick="carregarConteudo(pagina3)">opção 1</button><p>Ter memoria apagada</p></div>
 <div class="optxt"><button class="options" onclick="carregarConteudo(pagina6)">opção 2</button><p>Ter poder</p></div>
@@ -278,8 +277,8 @@ var pagina14 = ` <section>
 <p>O garoto então pensou e chegou a conclusão de que talvez pudesse não ter nada o que oferecer a Bruxa, seguiu em caminho ao lenhador e o avistou e foi aí que o garoto sentiu arrependimento, o lenhador era grande, tinha um semblante assustador e usava um machado que era tão grande quanto ele.
 O lenhador começou a ir em direção ao garoto
 </p>
-</section>
 <img class="imagemzada" src="imagens/garotofloresta2.png" alt="">
+</section>
 <div class="opcaos">
 <div class="optxt"><button class="options" onclick="carregarConteudo(pagina15)">opção 1</button><p>Ficar parado</p></div>
 <div class="optxt"><button class="options" onclick="carregarConteudo(pagina17)">opção 2</button><p>Correr</p></div>
@@ -296,8 +295,8 @@ Pensei em ir até a Bruxa, porem não creio que tenha algo a oferecer a ela e re
 <br>
 -"Todos sempre temos algo a oferecer, uns mais e outros menos, mas sempre algo. O que voce tanto deseja que a bruxa te desse?"                
 </p>
-</section>
 <img class="imagemzada" src="imagens/lenhador.png" alt="">
+</section>
 <div class="opcaos">
 <div class="optxt"><button class="options" onclick="carregarConteudo(pagina16)">opção 1</button><p>Mentir e voltar pra casa</p></div>
 <div class="optxt"><button class="options" onclick="carregarConteudo(pagina18)">opção 2</button><p>Falar a verdade e ver o que o lenhador tem a dizer</p></div>
@@ -317,9 +316,9 @@ O lenhador supreso com o motivo explana:
 O menino fez que sim com a cabeça e saiu dali com a mesma velocidade de quem  é chamado pela mãe para o almoço.
 <br>
 <br>
-Porem ele segue um caminho diferente, com que faz ele se encontrar com a bruxa. 
-</section>
+Porem ele segue um caminho diferente, com que faz ele se encontrar com a bruxa.
 <img class="imagemzada" src="imagens/garoto floresta.png" alt="">
+</section>
 <div class="opcaos">
 <div class="optxt_center"><button class="options_center" onclick="carregarConteudo(pagina2)">Proxima pagina</button></div></p>
 </div>`
@@ -330,9 +329,9 @@ Então o garoto correu mais rápido do que nunca, porém o lenhador era  tão gr
 <br>
 <br>
 - "o que faz aqui?"
-</p>  
-</section>
+</p>
 <img class="imagemzada" src="imagens/lenhador.png" alt="">
+</section>
 <div class="opcaos">
 <div class="optxt"><button class="options" onclick="carregarConteudo(pagina18)">opção 1</button><p>Falar a verdade e ver o que o lenhador tem a oferecer</p></div>
 <div class="optxt"><button class="options" onclick="carregarConteudo(pagina16 )">opção 2</button><p>Mentir</p></div>
@@ -355,8 +354,8 @@ o lenhador então começou a gargalhar, se ajoelhou na frente do garoto e disse:
 <br>
 O garoto então sorriu, as palavras que o lenhador havia lhe dito trouxerem a ele esperança, então após agradecer o lenhador o menino novamente adentrou a floresta, feliz, pensando em tudo que o lenhador havia te dito, até que avistou a bruxa, e se espantou: diferente do lenhador, ela tinha boa aparência e não causava medo algum, pelo contrário, era tão bela que fazia os olhos do menino brilhar.
 </p>
-</section>
 <img class="imagemzada" src="imagens/bruxa costa.jpg" alt="">
+</section>
 <div class="opcaos">
 <div class="optxt_center"><button class="options_center" onclick="carregarConteudo(pagina19)">Proxima pagina</button></div>
 </div>`
@@ -384,8 +383,8 @@ a Bruxa o observando com atenção respondeu:
 <br>
 "posso lhe conceder dois caminhos: em um, posso apagar suas lembranças para que você possa ser livre delas, em outros, elas permanecem porem te darei poder e com ele você poderá ter tudo o que quiser, mas irá permanecer com elas."
 </p>
-</section>
 <img class="imagemzada" src="imagens/bruxagaroto.jpg" alt="">
+</section>
 <div class="opcaos">
 <div class="optxt"><button class="options" onclick="carregarConteudo(pagina20 )">opção 1</button><p>Negar</p></div>
 <div class="optxt"><button class="options" onclick="carregarConteudo(pagina3)">opção 2</button><p>Aceitar ter lembramças pagadas</p></div>
@@ -395,14 +394,14 @@ a Bruxa o observando com atenção respondeu:
 var pagina20 = `<section>  
 <p>O garoto por um momento, ficou em silencio, ele sabia que poderia finalmente se livrar das lembranças indesejadas que o faziam ter tantos pesadelos, porem as palavras de esperança que o lenhador lhe concedeu ficaram gravadas em seu coração, o garoto virou as costas para a bruxa e respondeu:<br><br>"Obrigada senhora Bruxa, porem creio que o que eu tanto queria já me foi concedido"O garoto foi embora, com as palavras do lenhador gravadas em seu coração  e chegou o dia em que se tornou um homem, cujo com sua grande resistência as lembranças ruins, se tornou um guerreiro imbatível, forte, destemido e que nunca desistia.
 </p>
-</section>
 <img class="imagemzada" src="imagens/garoto_velho.jpg" alt="">
+</section>
 <br>
 <br>
 
 <div class="try">
 <p class="final">FIM.</p>
-<a href="/index.html"><div class="optxt_try"><button class="options_center">Jogar Novamente</button></a>
+<a href="index.html"><div class="optxt_try"><button class="options_center">Jogar Novamente</button></a>
 </div>
 
 </div>`;
@@ -410,6 +409,7 @@ var pagina20 = `<section>
 var elemento = document.getElementById("conteudo");
 function carregarConteudo(conteudo) {
   elemento.innerHTML = conteudo;
+  window.scrollTo({ top: 0, behavior: 'smooth' })
 }
 
 

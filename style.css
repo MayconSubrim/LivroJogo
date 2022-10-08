@@ -1,3 +1,4 @@
+@import url('https://fonts.googleapis.com/css2?family=Eater&family=Roboto&display=swap');
 html, body, div, span, applet, object, iframe,
 h1, h2, h3, h4, h5, h6, p, blockquote, pre,
 a, abbr, acronym, address, big, cite, code,
@@ -42,42 +43,67 @@ table {
 	border-spacing: 0;
 }
 
+
 #back{
     background-image: url(imagens/meninopesadelo2.png);
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
-    background-repeat: repeat-y;
+    height: 100vh;
     
 }
 
-.start{
-    display: block;
-    width: 600px;
-    margin: 0 auto;
-    position: relative;
-    
+.textozinho{
+    display: flex;
+    flex-direction: column;
+    align-content: center;
+    justify-content: center;
 }
+
+.play p{
+    position: relative;
+    font-family: 'Eater', cursive;
+    font-size: 50px;
+    width: fit-content;
+    height: 65px;
+    margin: 0 auto;
+    color: #371911;
+    background-color: #00000051;
+}
+
+a{
+    text-decoration: none;
+}
+
+.play p{
+    margin-top: 100px;
+    cursor: pointer;
+}
+
+.play p:hover{
+    color: #000000;
+    transform: scale(1.5);
+    transition: all 500ms;
+    cursor: pointer;
+}
+
 
 .textozada{
+    font-family: 'Eater', cursive;
     margin-top: 100px;
     text-align: center;
     display: flex;
     justify-content: center;
     font-size: 96px;
-    background: conic-gradient(from 180deg at 50% 40.1%, #E95C0E -94deg, #FFF500 107.02deg, #E95C0E 266deg, #FFF500 467.02deg);
+    background: -webkit-linear-gradient(#682610,#550101);
     -webkit-background-clip: text;
-    -webkit-text-fill-color: transparent;
-    background-clip: text;
     -webkit-text-fill-color: transparent;
 }
 
 body{
-    width: 1200px;
-    
-    justify-content: center;
-    margin-left: auto;
-    margin-right: auto;
+    max-width: 1200px;
+    display: block;
+    margin: 0 auto;
 }
 button{
     color: rgb(255, 255, 255);
@@ -105,7 +131,8 @@ img{
 }
 
 .imagemzada{
-    width: 547px;
+    margin: 0px 10px 0px 10px;
+    width: 50%;
     height: 426px;
     margin-top: 55px;
     object-fit: cover;
@@ -144,8 +171,14 @@ img{
     margin-bottom: 59px;
 }
 
+.options_center:hover{
+    transform: scale(1.1);
+    background-color: #0CB801;
+    transition: all 400ms;
+}
+
 .try{
-    margin-top: 55px;
+    margin-top: 10px;
 }
 
 .optxt_try{
@@ -162,7 +195,35 @@ img{
 
 section{
     margin-top: 20px;
+    display: flex;
+    align-items: center;
 }
+
+section p{
+    width: 50%;
+    font-size: larger;
+    margin-left: 10px;
+}
+
+@media screen and (max-width: 600px) {
+    section{
+        display: flex;
+        flex-direction: column;
+    }
+
+    .imagemzada{
+        width: 100%;
+    }
+
+    section p{
+        width: 100%;
+    }
+
+    .textozada{
+        font-size: 38px;
+    }
+}
+
 
 .inicial{
     background-color: #000000;
@@ -175,6 +236,10 @@ section{
 
 .altocontraste #conteudo p, h3{
     color: #f3f3f3;
+}
+
+.altocontraste .botaozinho p{
+    color: white;
 }
 
 .botao {
