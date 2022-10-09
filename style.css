@@ -49,8 +49,8 @@ table {
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
-    height: 100vh;
-    
+    height: 100vh;   
+    width: 100vw;
 }
 
 .textozinho{
@@ -74,7 +74,6 @@ table {
 a{
     text-decoration: none;
 }
-
 .play p{
     margin-top: 100px;
     cursor: pointer;
@@ -100,7 +99,7 @@ a{
     -webkit-text-fill-color: transparent;
 }
 
-body{
+#corpo{
     max-width: 1200px;
     display: block;
     margin: 0 auto;
