@@ -204,6 +204,12 @@ section p{
     margin-left: 10px;
 }
 
+@media screen and (min-width: 1600px){
+    #corpo{
+        zoom: 150%;
+    }
+}
+
 @media screen and (max-width: 600px) {
     section{
         display: flex;
